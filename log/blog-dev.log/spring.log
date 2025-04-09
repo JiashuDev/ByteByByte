@@ -1,0 +1,7 @@
+2024-09-12 23:04:39.504  INFO 21900 --- [restartedMain] com.jl.blogapplication.BlogApplication   : Starting BlogApplication on MSI with PID 21900 (C:\Users\16507\Downloads\blogApplication\target\classes started by 16507 in C:\Users\16507\Downloads\blogApplication)
+2024-09-12 23:04:39.516 DEBUG 21900 --- [restartedMain] com.jl.blogapplication.BlogApplication   : Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2024-09-12 23:04:39.516  INFO 21900 --- [restartedMain] com.jl.blogapplication.BlogApplication   : The following profiles are active: dev
+2024-09-12 23:04:39.602  INFO 21900 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-12 23:04:39.603  INFO 21900 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-12 23:04:41.426  INFO 21900 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+2024-09-12 23:04:41.617  INFO 21900 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 163ms. Found 5 JPA repository interfaces.
